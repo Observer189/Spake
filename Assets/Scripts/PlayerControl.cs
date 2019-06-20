@@ -6,6 +6,8 @@ using UnityEngine;
 public class PlayerControl : MonoBehaviour
 {
     private BattleInputInfo inputInfo;
+
+    
     // Start is called before the first frame update
     private void Awake()
     {

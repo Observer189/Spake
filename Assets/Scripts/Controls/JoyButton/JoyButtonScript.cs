@@ -17,10 +17,12 @@ public class JoyButtonScript : MonoBehaviour, IPointerUpHandler, IPointerDownHan
     public Image notPressed;
 
     private Vector2 standartPos;
-    
+
+    private GameController gameController;
     // Start is called before the first frame update
     void Start()
     {
+        gameController = GameObject.FindWithTag("GameController").GetComponent<GameController>();
         standartPos = notPressed.transform.position;
         Debug.Log(standartPos);
     }
@@ -57,6 +59,7 @@ public class JoyButtonScript : MonoBehaviour, IPointerUpHandler, IPointerDownHan
                 Debug.Log("QuitingScene");
                 Application.Quit(); //здесь пытаюсь закрыть сцену   
                 LoadGame("NOTNetworkBattle");
+                gameController.OnSceneChange("NOTNetworkBattle");
                 Debug.Log("Load!!");
                 break;
         }
