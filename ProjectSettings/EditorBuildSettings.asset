@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: e44a06d842f56f948b73caf5e6cb7bd3
+  - enabled: 1
+    path: Assets/Scenes/NetworkBattle.unity
+    guid: e455b41fd7969424fa57b6988c20dea7
+  - enabled: 1
+    path: Assets/Scenes/NetworkBattleWithAI.unity
+    guid: 374116a3f21282841a91e659945141a2
+  - enabled: 1
+    path: Assets/Scenes/NOTNetworkBattle.unity
+    guid: 80c3e96afff07524ea6887838ae09402
   m_configObjects: {}
