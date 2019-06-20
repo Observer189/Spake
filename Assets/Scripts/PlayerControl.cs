@@ -6,6 +6,12 @@ using UnityEngine;
 public class PlayerControl : MonoBehaviour
 {
     private BattleInputInfo inputInfo;
+    
+    private VariableJoystick variableJoystick;
+    private JoyButtonScript joyButton;
+
+    private ShipScript _shipScript;
+    
     // Start is called before the first frame update
     private void Awake()
     {
@@ -14,13 +20,15 @@ public class PlayerControl : MonoBehaviour
 
     void Start()
     {
-        
+        variableJoystick = GameObject.Find("Canvas/Variable Joystick").GetComponent<VariableJoystick>();
+        joyButton = GameObject.Find("Canvas/JoyButton").GetComponent<JoyButtonScript>();
+        _shipScript = GetComponent<ShipScript>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)) inputInfo.setIsShooting(true);
+        /*if (Input.GetKeyDown(KeyCode.Space)) inputInfo.setIsShooting(true);
         if (Input.GetKeyUp(KeyCode.Space)) inputInfo.setIsShooting(false);
         
         if (Input.GetAxis("Horizontal") < 0) 
@@ -44,7 +52,15 @@ public class PlayerControl : MonoBehaviour
         else if (Input.GetAxis("Vertical") == 0)
         {
             inputInfo.setGasInfo(0);
-        }
+        }*/
+        
+        inputInfo.IsShooting = joyButton.Pressed;
+        inputInfo.Angle = variableJoystick.Angle;
+
+        if (variableJoystick.isPointerDown && !_shipScript.isTurning)
+            inputInfo.GasInfo = 1;
+        else
+            inputInfo.GasInfo = 0;
     }
 
     public BattleInputInfo getInputInfo()

@@ -1,42 +1,62 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics.SymbolStore;
 using UnityEngine;
 
 public class BattleInputInfo//класс - информация о пользовательском вводе относительно движения корабля
 {
-    private sbyte turnInfo;//в каккую сторону поворачиваться
-                          //1-вправо
-                          //-1-влево
-                          //0-не поворачиваться
-    private sbyte gasInfo;//в какую сторону направлен газ
-                         //1-вперед
-                         //-1-назад
-                         //0-нет газа
-    private bool isShooting;//стреляет корабль или нет
+    /// <summary>
+    /// В какую сторону поворачиваться
+    /// <value>
+    ///    1 - вправо
+    ///    -1 - влево
+    ///    0 - не поворачиваться
+    /// </value>
+    /// </summary>
+    private sbyte turnInfo;
+    
+    /// <summary>
+    /// На какой угол надо повернуться
+    /// </summary>
+    private float angle;
+    
+    /// <summary>
+    /// В какую сторону направлен газ
+    /// <value>
+    ///    1 - вперед
+    ///    -1 - назад
+    ///    0 - нет газа
+    /// </value>
+    /// </summary>
+    private sbyte gasInfo;
+    
+    /// <summary>
+    /// Стреляет корабль или нет
+    /// </summary>
+    private bool isShooting;
 
-    public sbyte getTurnInfo()
+    public float Angle
     {
-        return turnInfo;
-    }
-    public sbyte getGasInfo()
-    {
-        return gasInfo;
-    }
-    public bool getIsShooting()
-    {
-        return isShooting;
+        get => angle;
+        set => angle = value;
     }
 
-    public void setTurnInfo(sbyte i)
+    public bool IsShooting
     {
-        turnInfo = i;
+        get => isShooting;
+        set => isShooting = value;
     }
-    public void setGasInfo(sbyte i)
+
+    public sbyte TurnInfo
     {
-        gasInfo = i;
+        get => turnInfo;
+        set => turnInfo = value;
     }
-    public void setIsShooting(bool i)
+
+    public sbyte GasInfo
     {
-        isShooting = i;
+        get => gasInfo;
+        set => gasInfo = value;
     }
+
 }
