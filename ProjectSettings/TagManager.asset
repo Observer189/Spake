@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 1stButton
+  - 2ndButton
+  - 3rdButton
   layers:
   - Default
   - TransparentFX

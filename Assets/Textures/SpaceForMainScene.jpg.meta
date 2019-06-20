@@ -1,0 +1,6352 @@
+fileFormatVersion: 2
+guid: fb619997e05e22c4abf18b3aba059077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1242752974414849194
+    second: SpaceForMainScene_0
+  - first:
+      213: -1071740231586986235
+    second: SpaceForMainScene_1
+  - first:
+      213: 588210583146403562
+    second: SpaceForMainScene_2
+  - first:
+      213: 7746211646397193094
+    second: SpaceForMainScene_3
+  - first:
+      213: 3095344852825226972
+    second: SpaceForMainScene_4
+  - first:
+      213: 5455464176895022658
+    second: SpaceForMainScene_5
+  - first:
+      213: 8121053398079573781
+    second: SpaceForMainScene_6
+  - first:
+      213: 5948267147658241863
+    second: SpaceForMainScene_7
+  - first:
+      213: 7658427261020563956
+    second: SpaceForMainScene_8
+  - first:
+      213: 3290561146092812060
+    second: SpaceForMainScene_9
+  - first:
+      213: -4574475445480405777
+    second: SpaceForMainScene_10
+  - first:
+      213: -7421530991921826110
+    second: SpaceForMainScene_11
+  - first:
+      213: -572793263478801087
+    second: SpaceForMainScene_12
+  - first:
+      213: -6938068845420818391
+    second: SpaceForMainScene_13
+  - first:
+      213: -8238888745487450237
+    second: SpaceForMainScene_14
+  - first:
+      213: -8449715218669238233
+    second: SpaceForMainScene_15
+  - first:
+      213: 698627986910069534
+    second: SpaceForMainScene_16
+  - first:
+      213: 1748311082017524369
+    second: SpaceForMainScene_17
+  - first:
+      213: -365200991034065958
+    second: SpaceForMainScene_18
+  - first:
+      213: -8582282450736091897
+    second: SpaceForMainScene_19
+  - first:
+      213: 5250745352054324346
+    second: SpaceForMainScene_20
+  - first:
+      213: 521192078107981311
+    second: SpaceForMainScene_21
+  - first:
+      213: 212428435266944160
+    second: SpaceForMainScene_22
+  - first:
+      213: 8197105553737685793
+    second: SpaceForMainScene_23
+  - first:
+      213: -4133848717259148667
+    second: SpaceForMainScene_24
+  - first:
+      213: -5431419338328668735
+    second: SpaceForMainScene_25
+  - first:
+      213: 8825469167967260317
+    second: SpaceForMainScene_26
+  - first:
+      213: -608093275642725848
+    second: SpaceForMainScene_27
+  - first:
+      213: -2895062059959746361
+    second: SpaceForMainScene_28
+  - first:
+      213: 8176675654519655017
+    second: SpaceForMainScene_29
+  - first:
+      213: 8800391724485332387
+    second: SpaceForMainScene_30
+  - first:
+      213: -3033939855425583264
+    second: SpaceForMainScene_31
+  - first:
+      213: -398490276827750035
+    second: SpaceForMainScene_32
+  - first:
+      213: 8762335845587315149
+    second: SpaceForMainScene_33
+  - first:
+      213: -9038664532996273171
+    second: SpaceForMainScene_34
+  - first:
+      213: 370113573665856688
+    second: SpaceForMainScene_35
+  - first:
+      213: -8191561262905324140
+    second: SpaceForMainScene_36
+  - first:
+      213: 1183092013272385724
+    second: SpaceForMainScene_37
+  - first:
+      213: 7300079733406342630
+    second: SpaceForMainScene_38
+  - first:
+      213: 3139157413401215996
+    second: SpaceForMainScene_39
+  - first:
+      213: -3728431270684070272
+    second: SpaceForMainScene_40
+  - first:
+      213: 5258739931375505163
+    second: SpaceForMainScene_41
+  - first:
+      213: 433157610834882739
+    second: SpaceForMainScene_42
+  - first:
+      213: 7578000325407195246
+    second: SpaceForMainScene_43
+  - first:
+      213: -5370035804628309023
+    second: SpaceForMainScene_44
+  - first:
+      213: 3443479640520961552
+    second: SpaceForMainScene_45
+  - first:
+      213: 9025197201026546994
+    second: SpaceForMainScene_46
+  - first:
+      213: 4141070835108792530
+    second: SpaceForMainScene_47
+  - first:
+      213: -5097849184706764293
+    second: SpaceForMainScene_48
+  - first:
+      213: 2145959790268182926
+    second: SpaceForMainScene_49
+  - first:
+      213: 7591050374187966164
+    second: SpaceForMainScene_50
+  - first:
+      213: -1682449916141057648
+    second: SpaceForMainScene_51
+  - first:
+      213: -6166101969955547621
+    second: SpaceForMainScene_52
+  - first:
+      213: -5756899099914983075
+    second: SpaceForMainScene_53
+  - first:
+      213: 7906259093488570605
+    second: SpaceForMainScene_54
+  - first:
+      213: 3593106171796188227
+    second: SpaceForMainScene_55
+  - first:
+      213: 972112523348189772
+    second: SpaceForMainScene_56
+  - first:
+      213: 5376739124966807114
+    second: SpaceForMainScene_57
+  - first:
+      213: -7083471644536408860
+    second: SpaceForMainScene_58
+  - first:
+      213: 5320210381483220010
+    second: SpaceForMainScene_59
+  - first:
+      213: -2850776364027416389
+    second: SpaceForMainScene_60
+  - first:
+      213: 2230468430082906966
+    second: SpaceForMainScene_61
+  - first:
+      213: 441181372249962387
+    second: SpaceForMainScene_62
+  - first:
+      213: 7099945956452634632
+    second: SpaceForMainScene_63
+  - first:
+      213: 6989415723544546951
+    second: SpaceForMainScene_64
+  - first:
+      213: -8529084380901582793
+    second: SpaceForMainScene_65
+  - first:
+      213: -7321114909653026137
+    second: SpaceForMainScene_66
+  - first:
+      213: -1571423896270211575
+    second: SpaceForMainScene_67
+  - first:
+      213: 5509450633013601114
+    second: SpaceForMainScene_68
+  - first:
+      213: 5146191985283783700
+    second: SpaceForMainScene_69
+  - first:
+      213: -42072598310084960
+    second: SpaceForMainScene_70
+  - first:
+      213: -6495147302646994163
+    second: SpaceForMainScene_71
+  - first:
+      213: -7147353288812457683
+    second: SpaceForMainScene_72
+  - first:
+      213: -862246277060519407
+    second: SpaceForMainScene_73
+  - first:
+      213: 6127823809857545334
+    second: SpaceForMainScene_74
+  - first:
+      213: -9121578884387479013
+    second: SpaceForMainScene_75
+  - first:
+      213: 1485685937100715985
+    second: SpaceForMainScene_76
+  - first:
+      213: -2140353519268688599
+    second: SpaceForMainScene_77
+  - first:
+      213: 6558116887776154692
+    second: SpaceForMainScene_78
+  - first:
+      213: 6285970471387041389
+    second: SpaceForMainScene_79
+  - first:
+      213: 7507371588707118021
+    second: SpaceForMainScene_80
+  - first:
+      213: 6211506751052441556
+    second: SpaceForMainScene_81
+  - first:
+      213: -773019377820941358
+    second: SpaceForMainScene_82
+  - first:
+      213: 5079823913183614647
+    second: SpaceForMainScene_83
+  - first:
+      213: 3316552369107570574
+    second: SpaceForMainScene_84
+  - first:
+      213: 8150554034535400508
+    second: SpaceForMainScene_85
+  - first:
+      213: 6196792630784501928
+    second: SpaceForMainScene_86
+  - first:
+      213: -8653772528549637863
+    second: SpaceForMainScene_87
+  - first:
+      213: -4475145941827239902
+    second: SpaceForMainScene_88
+  - first:
+      213: -1408566172924183714
+    second: SpaceForMainScene_89
+  - first:
+      213: 88673724501311796
+    second: SpaceForMainScene_90
+  - first:
+      213: 7140556778583970146
+    second: SpaceForMainScene_91
+  - first:
+      213: 8283431276517539364
+    second: SpaceForMainScene_92
+  - first:
+      213: 8015561818607415065
+    second: SpaceForMainScene_93
+  - first:
+      213: -1798713891754421390
+    second: SpaceForMainScene_94
+  - first:
+      213: -2791824568055132208
+    second: SpaceForMainScene_95
+  - first:
+      213: -4410339847192843858
+    second: SpaceForMainScene_96
+  - first:
+      213: 4048332751857274639
+    second: SpaceForMainScene_97
+  - first:
+      213: 5070855101689590037
+    second: SpaceForMainScene_98
+  - first:
+      213: -3672896480051249874
+    second: SpaceForMainScene_99
+  - first:
+      213: -2700378495638600202
+    second: SpaceForMainScene_100
+  - first:
+      213: 1678200853334082418
+    second: SpaceForMainScene_101
+  - first:
+      213: -3290814553748645443
+    second: SpaceForMainScene_102
+  - first:
+      213: 1763900053591699956
+    second: SpaceForMainScene_103
+  - first:
+      213: 3400733767153202835
+    second: SpaceForMainScene_104
+  - first:
+      213: -8259176202390678919
+    second: SpaceForMainScene_105
+  - first:
+      213: -8477854235088137992
+    second: SpaceForMainScene_106
+  - first:
+      213: -2779741280357156724
+    second: SpaceForMainScene_107
+  - first:
+      213: 8907742253894382080
+    second: SpaceForMainScene_108
+  - first:
+      213: 8558436550991604693
+    second: SpaceForMainScene_109
+  - first:
+      213: -1560958493213364488
+    second: SpaceForMainScene_110
+  - first:
+      213: -654266017689849248
+    second: SpaceForMainScene_111
+  - first:
+      213: -2423118673091817372
+    second: SpaceForMainScene_112
+  - first:
+      213: -6301148822529580299
+    second: SpaceForMainScene_113
+  - first:
+      213: -1498249181549364666
+    second: SpaceForMainScene_114
+  - first:
+      213: -2984643586295313836
+    second: SpaceForMainScene_115
+  - first:
+      213: -7264978161713372560
+    second: SpaceForMainScene_116
+  - first:
+      213: 2792932493679402778
+    second: SpaceForMainScene_117
+  - first:
+      213: 3645422897066940945
+    second: SpaceForMainScene_118
+  - first:
+      213: 3458510784586717624
+    second: SpaceForMainScene_119
+  - first:
+      213: 7391538965340632136
+    second: SpaceForMainScene_120
+  - first:
+      213: -4085579853188088086
+    second: SpaceForMainScene_121
+  - first:
+      213: 5063642289902483310
+    second: SpaceForMainScene_122
+  - first:
+      213: 5303240371126303768
+    second: SpaceForMainScene_123
+  - first:
+      213: 6827338199881230054
+    second: SpaceForMainScene_124
+  - first:
+      213: -754852804539763967
+    second: SpaceForMainScene_125
+  - first:
+      213: -986371356309031540
+    second: SpaceForMainScene_126
+  - first:
+      213: 355850277082129237
+    second: SpaceForMainScene_127
+  - first:
+      213: 5764979535488684016
+    second: SpaceForMainScene_128
+  - first:
+      213: 1152954661521876314
+    second: SpaceForMainScene_129
+  - first:
+      213: 6484912097296045657
+    second: SpaceForMainScene_130
+  - first:
+      213: -8308671604632038217
+    second: SpaceForMainScene_131
+  - first:
+      213: -859449388364081430
+    second: SpaceForMainScene_132
+  - first:
+      213: 2527526626550989487
+    second: SpaceForMainScene_133
+  - first:
+      213: -8029566504037135320
+    second: SpaceForMainScene_134
+  - first:
+      213: -6868568588873768833
+    second: SpaceForMainScene_135
+  - first:
+      213: 1746814931397865142
+    second: SpaceForMainScene_136
+  - first:
+      213: -893465257719629394
+    second: SpaceForMainScene_137
+  - first:
+      213: 146341076225572909
+    second: SpaceForMainScene_138
+  - first:
+      213: 1127207338668691692
+    second: SpaceForMainScene_139
+  - first:
+      213: -4618513800495505448
+    second: SpaceForMainScene_140
+  - first:
+      213: -8779852023862253492
+    second: SpaceForMainScene_141
+  - first:
+      213: -5052421122242255929
+    second: SpaceForMainScene_142
+  - first:
+      213: -3114970027693232076
+    second: SpaceForMainScene_143
+  - first:
+      213: 1915408939206567540
+    second: SpaceForMainScene_144
+  - first:
+      213: -777043836359157283
+    second: SpaceForMainScene_145
+  - first:
+      213: 6314031361287657214
+    second: SpaceForMainScene_146
+  - first:
+      213: 752331535326682400
+    second: SpaceForMainScene_147
+  - first:
+      213: 4906850170560601519
+    second: SpaceForMainScene_148
+  - first:
+      213: 6461469281981138526
+    second: SpaceForMainScene_149
+  - first:
+      213: 4982648973800755567
+    second: SpaceForMainScene_150
+  - first:
+      213: -7644743750131913473
+    second: SpaceForMainScene_151
+  - first:
+      213: 3385858075907541469
+    second: SpaceForMainScene_152
+  - first:
+      213: 6962371699891994627
+    second: SpaceForMainScene_153
+  - first:
+      213: 7032799562777403473
+    second: SpaceForMainScene_154
+  - first:
+      213: -424221709741656719
+    second: SpaceForMainScene_155
+  - first:
+      213: -5676775635964806679
+    second: SpaceForMainScene_156
+  - first:
+      213: 1961058257869506827
+    second: SpaceForMainScene_157
+  - first:
+      213: -2530401001277361651
+    second: SpaceForMainScene_158
+  - first:
+      213: -2559314458306892584
+    second: SpaceForMainScene_159
+  - first:
+      213: -720769034414844853
+    second: SpaceForMainScene_160
+  - first:
+      213: -1890863009211884366
+    second: SpaceForMainScene_161
+  - first:
+      213: 1043535898515656369
+    second: SpaceForMainScene_162
+  - first:
+      213: -5375658411432507354
+    second: SpaceForMainScene_163
+  - first:
+      213: 5073959893071724788
+    second: SpaceForMainScene_164
+  - first:
+      213: 1194685113380464505
+    second: SpaceForMainScene_165
+  - first:
+      213: 5322009414818289268
+    second: SpaceForMainScene_166
+  - first:
+      213: 8114982401544576980
+    second: SpaceForMainScene_167
+  - first:
+      213: 4583279818230730111
+    second: SpaceForMainScene_168
+  - first:
+      213: -806365313708910384
+    second: SpaceForMainScene_169
+  - first:
+      213: -8420412773431580187
+    second: SpaceForMainScene_170
+  - first:
+      213: -1047354662551914256
+    second: SpaceForMainScene_171
+  - first:
+      213: -3831764322004362464
+    second: SpaceForMainScene_172
+  - first:
+      213: 4301154813702866804
+    second: SpaceForMainScene_173
+  - first:
+      213: -4955855476421585910
+    second: SpaceForMainScene_174
+  - first:
+      213: 6931334003248042668
+    second: SpaceForMainScene_175
+  - first:
+      213: 1463658588621126615
+    second: SpaceForMainScene_176
+  - first:
+      213: -3933200082815679675
+    second: SpaceForMainScene_177
+  - first:
+      213: -5534089881512388101
+    second: SpaceForMainScene_178
+  - first:
+      213: -8598960467574909973
+    second: SpaceForMainScene_179
+  - first:
+      213: 2705202858200741980
+    second: SpaceForMainScene_180
+  - first:
+      213: 34813914877705543
+    second: SpaceForMainScene_181
+  - first:
+      213: 7614622115329041521
+    second: SpaceForMainScene_182
+  - first:
+      213: -1284511236740943733
+    second: SpaceForMainScene_183
+  - first:
+      213: 4882592279561716835
+    second: SpaceForMainScene_184
+  - first:
+      213: 2166931179118419722
+    second: SpaceForMainScene_185
+  - first:
+      213: 281715795217588638
+    second: SpaceForMainScene_186
+  - first:
+      213: 5370208190350174295
+    second: SpaceForMainScene_187
+  - first:
+      213: 3687740905573560049
+    second: SpaceForMainScene_188
+  - first:
+      213: 8375667500553700532
+    second: SpaceForMainScene_189
+  - first:
+      213: -4137970550831281392
+    second: SpaceForMainScene_190
+  - first:
+      213: 4527925556067711122
+    second: SpaceForMainScene_191
+  - first:
+      213: 5586300689255304925
+    second: SpaceForMainScene_192
+  - first:
+      213: 1431205432804773746
+    second: SpaceForMainScene_193
+  - first:
+      213: -7931314799195085115
+    second: SpaceForMainScene_194
+  - first:
+      213: 863967435451926980
+    second: SpaceForMainScene_195
+  - first:
+      213: 405890734215608177
+    second: SpaceForMainScene_196
+  - first:
+      213: -8427000543777902303
+    second: SpaceForMainScene_197
+  - first:
+      213: -5786536605162871837
+    second: SpaceForMainScene_198
+  - first:
+      213: 1179113124906244312
+    second: SpaceForMainScene_199
+  - first:
+      213: -3548791214685003835
+    second: SpaceForMainScene_200
+  - first:
+      213: -8864829371577337867
+    second: SpaceForMainScene_201
+  - first:
+      213: -7535766917438210103
+    second: SpaceForMainScene_202
+  - first:
+      213: -2077527513768303342
+    second: SpaceForMainScene_203
+  - first:
+      213: -5493745442991137365
+    second: SpaceForMainScene_204
+  - first:
+      213: -2017551769109567756
+    second: SpaceForMainScene_205
+  - first:
+      213: -6985047193938271819
+    second: SpaceForMainScene_206
+  - first:
+      213: 89956611202278245
+    second: SpaceForMainScene_207
+  - first:
+      213: -4353288894412142089
+    second: SpaceForMainScene_208
+  - first:
+      213: 4662367585974419662
+    second: SpaceForMainScene_209
+  - first:
+      213: -6098960937042281157
+    second: SpaceForMainScene_210
+  - first:
+      213: 4968833697486242444
+    second: SpaceForMainScene_211
+  - first:
+      213: 2927429478331138113
+    second: SpaceForMainScene_212
+  - first:
+      213: -1353915301986511089
+    second: SpaceForMainScene_213
+  - first:
+      213: 8739675769285337405
+    second: SpaceForMainScene_214
+  - first:
+      213: -2207146216121001009
+    second: SpaceForMainScene_215
+  - first:
+      213: 2980951240406854047
+    second: SpaceForMainScene_216
+  - first:
+      213: -8911886524506804381
+    second: SpaceForMainScene_217
+  - first:
+      213: 6097871391749641404
+    second: SpaceForMainScene_218
+  - first:
+      213: -306471885456559708
+    second: SpaceForMainScene_219
+  - first:
+      213: -2451695544976068878
+    second: SpaceForMainScene_220
+  - first:
+      213: 1821296601626156433
+    second: SpaceForMainScene_221
+  - first:
+      213: -485821925195511009
+    second: SpaceForMainScene_222
+  - first:
+      213: -7152873629123688655
+    second: SpaceForMainScene_223
+  - first:
+      213: -5208539707228245921
+    second: SpaceForMainScene_224
+  - first:
+      213: -6787066870654696416
+    second: SpaceForMainScene_225
+  - first:
+      213: -4958312739939313343
+    second: SpaceForMainScene_226
+  - first:
+      213: -9016623872759104753
+    second: SpaceForMainScene_227
+  - first:
+      213: 6471231767277394672
+    second: SpaceForMainScene_228
+  - first:
+      213: -9085732923979694104
+    second: SpaceForMainScene_229
+  - first:
+      213: -3031459077638022818
+    second: SpaceForMainScene_230
+  - first:
+      213: 8704733867632599133
+    second: SpaceForMainScene_231
+  - first:
+      213: -4250606952027649044
+    second: SpaceForMainScene_232
+  - first:
+      213: 5523182450934013414
+    second: SpaceForMainScene_233
+  - first:
+      213: -1283955603846704304
+    second: SpaceForMainScene_234
+  - first:
+      213: -6940449836743151175
+    second: SpaceForMainScene_235
+  - first:
+      213: -4066257261555546607
+    second: SpaceForMainScene_236
+  - first:
+      213: 6467923365297209941
+    second: SpaceForMainScene_237
+  - first:
+      213: -6624728009979380472
+    second: SpaceForMainScene_238
+  - first:
+      213: 8568348849575547437
+    second: SpaceForMainScene_239
+  - first:
+      213: -8786773927914190529
+    second: SpaceForMainScene_240
+  - first:
+      213: -5872994993438077723
+    second: SpaceForMainScene_241
+  - first:
+      213: 1733089369888351572
+    second: SpaceForMainScene_242
+  - first:
+      213: -2439886754789171444
+    second: SpaceForMainScene_243
+  - first:
+      213: -7907033807885272017
+    second: SpaceForMainScene_244
+  - first:
+      213: -7082252603267804762
+    second: SpaceForMainScene_245
+  - first:
+      213: -8416499824540393386
+    second: SpaceForMainScene_246
+  - first:
+      213: -4338626909412712783
+    second: SpaceForMainScene_247
+  - first:
+      213: -8281473939528399116
+    second: SpaceForMainScene_248
+  - first:
+      213: -173137567088433301
+    second: SpaceForMainScene_249
+  - first:
+      213: -3532824767392481100
+    second: SpaceForMainScene_250
+  - first:
+      213: -940509038151701053
+    second: SpaceForMainScene_251
+  - first:
+      213: 5412144995005789431
+    second: SpaceForMainScene_252
+  - first:
+      213: -3292141440943960560
+    second: SpaceForMainScene_253
+  - first:
+      213: -5554975705239938201
+    second: SpaceForMainScene_254
+  - first:
+      213: 3413250807917230694
+    second: SpaceForMainScene_255
+  - first:
+      213: -8242883036647615249
+    second: SpaceForMainScene_256
+  - first:
+      213: 2603428054491498320
+    second: SpaceForMainScene_257
+  - first:
+      213: -9054491048098715604
+    second: SpaceForMainScene_258
+  - first:
+      213: -744498059742856663
+    second: SpaceForMainScene_259
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 93
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceForMainScene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093d0d8850125a49a7ae5f9bdfd1a06
+      internalID: -1242752974414849194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f666f000285294b811a42030628ec4
+      internalID: -1071740231586986235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90b99ec1fe7854ab4e56cb491f80e7
+      internalID: 588210583146403562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516488cb6c301b448e8daec0814b9f0
+      internalID: 7746211646397193094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35860c84b266eb46837613e63220e12
+      internalID: 3095344852825226972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b12b56b5ce114a8c2897431bae620
+      internalID: 5455464176895022658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb1ca6779d8a449b952bffd688961f
+      internalID: 8121053398079573781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a548c4c0bc4f5438e8cf83f4be5be4
+      internalID: 5948267147658241863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6a9352bd0b4564d8e03310080833a3
+      internalID: 7658427261020563956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5a6ea96d41ffa4fa9a218667c246ab
+      internalID: 3290561146092812060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710e88e3818dc6449b75d3c44e0fe3a2
+      internalID: -4574475445480405777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6857ee8ddcce245b1e2abce1840c66
+      internalID: -7421530991921826110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42081f75dc18fe64395acc4cbe66e7df
+      internalID: -572793263478801087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d61dfb39f41fda439061015f4a1e092
+      internalID: -6938068845420818391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad7e759450b2c4383c34f89eae4c8f
+      internalID: -8238888745487450237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56acd51ee85fea48a7ab7cccba6bd94
+      internalID: -8449715218669238233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd0af161cff4f41a6cfa4d2c9f7b24
+      internalID: 698627986910069534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024f143ff37cc54b88cca37c9d5d63b
+      internalID: 1748311082017524369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ab17481427f0469026b6bec64ad84
+      internalID: -365200991034065958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_19
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1107.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ecc7d58a1906f479ad8f613c7c1331
+      internalID: -8582282450736091897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d538f925848df94b87d6fa4fe072c38
+      internalID: 5250745352054324346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11288cc4983c64993d358decde8d2d
+      internalID: 521192078107981311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a49db2cc5cc1f4e8c9dc5dd0101691
+      internalID: 212428435266944160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11530ee0658eb1e4f8377a9b71dba397
+      internalID: 8197105553737685793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5721339665d604b977b4daa8ccf500
+      internalID: -4133848717259148667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffd88519d2f884ea5e268f34fb6016
+      internalID: -5431419338328668735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36753d2c76d42b74fad5f1cd1942323a
+      internalID: 8825469167967260317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cd25e5528817548a735aad1fd1266c
+      internalID: -608093275642725848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a750371e436cb4b971e78dc388c00f
+      internalID: -2895062059959746361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7630e296fcbc947a96b76329a3cce1
+      internalID: 8176675654519655017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a32bef4d6cd14f95bc2f3fe6f0c34
+      internalID: 8800391724485332387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_31
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8642abe7f72fe4cbd67a24ec938806
+      internalID: -3033939855425583264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015df075def58b74da93aed104d15099
+      internalID: -398490276827750035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_33
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913421aec90c7de418ee39542ab518d3
+      internalID: 8762335845587315149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f81136f05fa5c4ea1abbbf3727b8a3
+      internalID: -9038664532996273171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df505c4dd7e08e54c8c2163d8f439b85
+      internalID: 370113573665856688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b36a46802a654caad7eb61491f033
+      internalID: -8191561262905324140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_37
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c32ebe4d4320c4685166883e7598ba
+      internalID: 1183092013272385724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_38
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70dbbccafde3fb44b3a44f320cdce27
+      internalID: 7300079733406342630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_39
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1015.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d82a031b4efaba499175f923d7ea187
+      internalID: 3139157413401215996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1af61400d8d047ac5c5d21b6ed136
+      internalID: -3728431270684070272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98920e6dd7c0ab49b18693f837955ef
+      internalID: 5258739931375505163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc746deeee48edb47b472ca12e093cd3
+      internalID: 433157610834882739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318a06e0f92caa41ab86eae211154b2
+      internalID: 7578000325407195246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7491024935a745a2dbd05baca3029
+      internalID: -5370035804628309023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f61a13dfc15d45874306455fc6a8a
+      internalID: 3443479640520961552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d4c6cb495faa4cb94aab4dc849abf
+      internalID: 9025197201026546994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04a569d68775b3468a539bddf7f4a49
+      internalID: 4141070835108792530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b72104e0170c948a6344e85a2585fe
+      internalID: -5097849184706764293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60fb0905b170042a3fe56f5987a0f2
+      internalID: 2145959790268182926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d320b237a4a8ad48a72a7c577b341ce
+      internalID: 7591050374187966164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_51
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a2351ec48915499e8848da06ab7e4
+      internalID: -1682449916141057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47c49b0cab5a841a58c9419a1c7221
+      internalID: -6166101969955547621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_53
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7656bf2c3a944ebf3ece9923c5b6a
+      internalID: -5756899099914983075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_54
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4db003d6c68384ca31f6a2a6f5dd6e
+      internalID: 7906259093488570605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_55
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22885b1286754b34897278546072fd9f
+      internalID: 3593106171796188227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_56
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20459bee3f843e34eb40d628eff307e8
+      internalID: 972112523348189772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_57
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d36da29b1cb7847bc1708e581e1c45
+      internalID: 5376739124966807114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_58
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f45de56a45c5b4b9c08b78268a9026
+      internalID: -7083471644536408860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_59
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 923.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375bf64da380cd4da2b1e9dad8e7b02
+      internalID: 5320210381483220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd51ff1a0d0fd7a4ca69c2315f8a517b
+      internalID: -2850776364027416389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4fa5f33d4be84c8462ff1a71d9ffa
+      internalID: 2230468430082906966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37720426c527d0047840c01fe57a6f4e
+      internalID: 441181372249962387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f9ffad1e5c194b8e60897ccc5c41f
+      internalID: 7099945956452634632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16703599eb7662543ae5d04a8ca58ff3
+      internalID: 6989415723544546951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9393d7ccc34b7a848bcf705ba361f9d2
+      internalID: -8529084380901582793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7edfb01985521f4a9b00a38142a896d
+      internalID: -7321114909653026137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4c740109faf449a97b2cbe375d315
+      internalID: -1571423896270211575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611aa999082eccf429d1a1211b5f1fd5
+      internalID: 5509450633013601114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0711eba8f01218d4c9956de9f0908a31
+      internalID: 5146191985283783700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077214db2285d6e4a8bd174a845f1af3
+      internalID: -42072598310084960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_71
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd92f4094f8fa489b7c287ab9c0d2e
+      internalID: -6495147302646994163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_72
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a43a77723d8434e903d90c7f6d877e
+      internalID: -7147353288812457683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_73
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a90104e72255394492b83fe4c28774b
+      internalID: -862246277060519407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca3965291fdea499793183b28fc980
+      internalID: 6127823809857545334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_75
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85375ce29048d014ba060738ccdd4279
+      internalID: -9121578884387479013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3f69af38ad274a9515016e6062afe
+      internalID: 1485685937100715985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_77
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680c08e8ca43694a849249bb44f9bb4
+      internalID: -2140353519268688599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_78
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87d739727b8274dab492b9873a5fb8
+      internalID: 6558116887776154692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_79
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 831.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee775234caba24bbe1a8e3c1bad6b7
+      internalID: 6285970471387041389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12659494f9d2491429141eac6aa35d52
+      internalID: 7507371588707118021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d43a92f9a24664b8204fd8e901fae4
+      internalID: 6211506751052441556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def9e884c6cb404e99fbe2069040cdb
+      internalID: -773019377820941358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5916a244e55434d95c7f34417bc976
+      internalID: 5079823913183614647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba1e95a9e57a642a5b86d8c24380d2
+      internalID: 3316552369107570574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930ef06d06886146a53d74478119392
+      internalID: 8150554034535400508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730bccd1bc4a176429083215d51fa443
+      internalID: 6196792630784501928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77596d6aa48da414bbf4c6aff2a2b6d7
+      internalID: -8653772528549637863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a1d67ee99cfd42a9f57ad73109628
+      internalID: -4475145941827239902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_89
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaccdb556ded534095022580191da4e
+      internalID: -1408566172924183714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e2494a53e106c468a3d8a197ed752f
+      internalID: 88673724501311796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_91
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a79a162f892084d991e90196434456
+      internalID: 7140556778583970146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_92
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db77a8c8f67db534b9be054555c4a571
+      internalID: 8283431276517539364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_93
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931909e219ce5a4eb224fb69d162726
+      internalID: 8015561818607415065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_94
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179eb864306fa684daa5fcae23421817
+      internalID: -1798713891754421390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_95
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6db763e45cba4f852879782564abb
+      internalID: -2791824568055132208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b33c6ab8856b41a0bc1014808b376
+      internalID: -4410339847192843858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_97
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e86d078a70fc741a154cb4aed2681f
+      internalID: 4048332751857274639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_98
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5fe5cd694caf43821011dcf67def1
+      internalID: 5070855101689590037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_99
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 739.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03dd3587929ec342aff97052a0d9d29
+      internalID: -3672896480051249874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf64fabe8900847a3da86b473baf54
+      internalID: -2700378495638600202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab95df1e6b725d49812ac128c23516a
+      internalID: 1678200853334082418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1b76a00888f348924460fcd07698f
+      internalID: -3290814553748645443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6544431ad5f616d41b1df637638321cc
+      internalID: 1763900053591699956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c24f1e322985e4b9452d6ed241f6c0
+      internalID: 3400733767153202835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00489db6c51b04f909458546f95209
+      internalID: -8259176202390678919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd35e631858a6245ba1384721ae463f
+      internalID: -8477854235088137992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_107
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad04667d4d0db38449b9369586167bdd
+      internalID: -2779741280357156724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ad3c876fb65db418a9cf710130978b
+      internalID: 8907742253894382080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_109
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d5d5dae972d244ad6b1f54a8e4540
+      internalID: 8558436550991604693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_110
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d5d02be6a0044fae154f442f53cd4
+      internalID: -1560958493213364488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_111
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab127bea26cf3447b3e4fbd421e524b
+      internalID: -654266017689849248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_112
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a09f3d3399174cad60b5cffbc0141
+      internalID: -2423118673091817372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_113
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617002cd804e3c40a5cb1e63bb6b07f
+      internalID: -6301148822529580299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_114
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56359df45a8e4284c989a7e1d479785f
+      internalID: -1498249181549364666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_115
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce2a8330aba7e41afb4ed570ceb589
+      internalID: -2984643586295313836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_116
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bbeb2ddcdce8e4b9d327cb5a5e7bc6
+      internalID: -7264978161713372560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_117
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2318f3bf95e042abec6ab400c1d2b
+      internalID: 2792932493679402778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_118
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54942055901ab45b16dce60083832a
+      internalID: 3645422897066940945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_119
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 647.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8fd156effbcda4ebf4ffa89e07e7c5
+      internalID: 3458510784586717624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132207042120ad3449f6184df4847470
+      internalID: 7391538965340632136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d26d48d70db7d541ab4cb5eb47afcf9
+      internalID: -4085579853188088086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9101b13e6301b478db25602d7aca63
+      internalID: 5063642289902483310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c8e2973aa04448884bca2041e8392
+      internalID: 5303240371126303768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2abfb454c2d1949804a407ea231dcb
+      internalID: 6827338199881230054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfb990281ea164f899ec284c25d162
+      internalID: -754852804539763967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b61b5e63cb17429926d4fe272ef19
+      internalID: -986371356309031540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca08ae59493834bbf81fc266bdee80
+      internalID: 355850277082129237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd4fbd527bd3884991f8676d9f4afe2
+      internalID: 5764979535488684016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6359421e65ced4ea93907c502cdccd
+      internalID: 1152954661521876314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_130
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608916fb1854fdc4e9f4ff2259ecd25c
+      internalID: 6484912097296045657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_131
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9167d412687e394faa43e331eae483d
+      internalID: -8308671604632038217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_132
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fbe976b922d54ba9e6f0bdb26733b
+      internalID: -859449388364081430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_133
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d72e29f3c44e946afe355787ed2be0
+      internalID: 2527526626550989487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_134
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4324cfb6984f546afc70f2a6ae907e
+      internalID: -8029566504037135320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_135
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bebf2ed1955dd4daeee24cbe29a05d
+      internalID: -6868568588873768833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_136
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee4a66e28807fa4d9817ef4e70c973d
+      internalID: 1746814931397865142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_137
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f132b734111ff4fb3a2cd00eeaf098
+      internalID: -893465257719629394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_138
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d1b3169c410a43afc90645360ed2e
+      internalID: 146341076225572909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_139
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 555.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d796d67edd21794499af84efa8c9481
+      internalID: 1127207338668691692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc47562eb40c664d8961acb64786d2a
+      internalID: -4618513800495505448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fd4953976f62469b8d716287a9202
+      internalID: -8779852023862253492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da21cea1c7ef5488326c954cd90492
+      internalID: -5052421122242255929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_143
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4290bd3b3a844cad7815b2fc51ae3
+      internalID: -3114970027693232076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58022c2ebc13ab14194d63d207b1b271
+      internalID: 1915408939206567540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c387b46e36af44bb984f16d673b20
+      internalID: -777043836359157283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee63f561fcd354a83ce40d119fc6f3
+      internalID: 6314031361287657214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935083808bfaacf4fb893ca9840eab32
+      internalID: 752331535326682400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992b9c8a4f53934686e980693d7b0c4
+      internalID: 4906850170560601519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_149
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5500d8b5a918a644948eefcd3f9bb57
+      internalID: 6461469281981138526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_150
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e8573044b2394583a6ed7d9c54306
+      internalID: 4982648973800755567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_151
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58bb51911cd1ed4f81aa23502d0dd5f
+      internalID: -7644743750131913473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d49d7c3eaf426543a14f7a8c1d800f2
+      internalID: 3385858075907541469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_153
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563756361ba65984c8fa16d90c4d41e9
+      internalID: 6962371699891994627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_154
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc2a81d8619bdf49974cbee941336c3
+      internalID: 7032799562777403473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_155
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e8229fd03c934fa544d2e2d0fdf18
+      internalID: -424221709741656719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d929519caf67419a872a37af5cc0a
+      internalID: -5676775635964806679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_157
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e461cd35b4a342821e75eae7f88be
+      internalID: 1961058257869506827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_158
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0848d0aad8904ca34950878d2c2cb
+      internalID: -2530401001277361651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_159
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 463.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b236703ddbba43ad93d4960b86bfd
+      internalID: -2559314458306892584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff781e614c8e54fbc1eac111aff540
+      internalID: -720769034414844853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9365d592f29041aa03c1fc0e4dab0
+      internalID: -1890863009211884366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e82ecc808f524e9543b51b7a85028
+      internalID: 1043535898515656369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74121c425608fab4fa704766c8ceeba6
+      internalID: -5375658411432507354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee8bd3e065fb34abeb5c187e0438b8
+      internalID: 5073959893071724788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cec50715a6e64585510bb5dbfbcf5
+      internalID: 1194685113380464505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_166
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb478930fcea1042b0596a4ccf8386e
+      internalID: 5322009414818289268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_167
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8681daef8ace4a8c9fe2f49cab38d
+      internalID: 8114982401544576980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c1a53b6c09a643ae587a8a3d9e93a
+      internalID: 4583279818230730111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_169
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8852d649fe3cf245a71212e0c433e36
+      internalID: -806365313708910384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_170
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9979c94d1d0ea3042b8a43ce3ef0d795
+      internalID: -8420412773431580187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_171
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b702cb2659f4614f86db910f52bf07e
+      internalID: -1047354662551914256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_172
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c004b1e68e9bfc4989e49c347fb482b
+      internalID: -3831764322004362464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_173
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6374f63d4acb7940a608eb8217b392e
+      internalID: 4301154813702866804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_174
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5bc8a69e15f7c4c86f86eb11a7446d
+      internalID: -4955855476421585910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_175
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8399a6856882439b0572e21606048
+      internalID: 6931334003248042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_176
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a340aff19ab81f4aadaf5d99d488617
+      internalID: 1463658588621126615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_177
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ac486e93e39f47a7c4442158f0733
+      internalID: -3933200082815679675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_178
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f0b0439f6df3468149f9261e3cbbf
+      internalID: -5534089881512388101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_179
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 371.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669706d9a4d9ab54f9bc4c1ff0647b1f
+      internalID: -8598960467574909973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2573362ee49c044b26f258a738fd24
+      internalID: 2705202858200741980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065f00788ca9e34598803025ed455e7
+      internalID: 34813914877705543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b495dd49d3ec40a2528cd1656f668
+      internalID: 7614622115329041521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534279d451c9914490a7f796ed3e440
+      internalID: -1284511236740943733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c2c79f5238ab04ea0f9f8d31e6d3a6
+      internalID: 4882592279561716835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_185
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47155a987329b5d44a2e9d81b6a089e0
+      internalID: 2166931179118419722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_186
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bb77b2f6b2fc4281e62a63103169b
+      internalID: 281715795217588638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_187
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34a886bc341bb40a6ea4955332018e
+      internalID: 5370208190350174295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfd229a8f35914d9abaa63a76f4bbf
+      internalID: 3687740905573560049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_189
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb244cbc4578a0245b25efb3207f56d3
+      internalID: 8375667500553700532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_190
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca975721611304f9944b22cc1911ac
+      internalID: -4137970550831281392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_191
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94b14ba246a904188b794061b16571
+      internalID: 4527925556067711122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_192
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449eaae470f5f3438ac0009bfec3b0b
+      internalID: 5586300689255304925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_193
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f5e5bf13d4cc4d93f3d3d62560aa3
+      internalID: 1431205432804773746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_194
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48a30d56fd4414dbcda5b4236c6971
+      internalID: -7931314799195085115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_195
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d6d037ce0afa40b963489af7c756b
+      internalID: 863967435451926980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_196
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c145368758edb4d847282002777bee
+      internalID: 405890734215608177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_197
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a062d8223df9141a9da5f037bb261b
+      internalID: -8427000543777902303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_198
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456501875b78bf4ebf67412c2d64ffd
+      internalID: -5786536605162871837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_199
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 279.69232
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0a5789b8ac0847aee4bc73b595063
+      internalID: 1179113124906244312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1fc4e0f2b8034992fd1bea10307e9
+      internalID: -3548791214685003835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651189e83123404489c79476b7f46dd
+      internalID: -8864829371577337867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e4f594df3e1c408d2fbee2b76db4c
+      internalID: -7535766917438210103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9a1a3e6dde9f4098f170c03952677
+      internalID: -2077527513768303342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4ddccf1c194d4eae8a124e1779922
+      internalID: -5493745442991137365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddccf8d2eee11043ab9f353ded04d9f
+      internalID: -2017551769109567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_206
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312ee9eba3a9de479b795fe08fb02ac
+      internalID: -6985047193938271819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9962bf2f1403e074cabce284caa48218
+      internalID: 89956611202278245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_208
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520da0ea175a90345a73ba499051eaa0
+      internalID: -4353288894412142089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_209
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506cd9b8b8ee244eb459aa1fa61e61e
+      internalID: 4662367585974419662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_210
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e48e09a25b09646b775c291cd7db7e
+      internalID: -6098960937042281157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_211
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72efa6ae9082341b054ea4711b4c67
+      internalID: 4968833697486242444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_212
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89faa75daf99cb148bcbe996a28149da
+      internalID: 2927429478331138113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_213
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c12b233a8c9545bae0c43e6c88ac2
+      internalID: -1353915301986511089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_214
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70adfdf240b4998438cdad378a23ee78
+      internalID: 8739675769285337405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_215
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930fd663d8df4941b962a53efcf6616
+      internalID: -2207146216121001009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_216
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc6b471fb34ae4389fdf99bf8a8b01
+      internalID: 2980951240406854047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_217
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253f95cde3643e43aaa668a0fef88b1
+      internalID: -8911886524506804381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_218
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7d1b496f1886d4caf8c1647aaa7993
+      internalID: 6097871391749641404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_219
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 187.6923
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b937437d422247a5f9b2db7ec4322
+      internalID: -306471885456559708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc813ac3b98b7044961c26cfb6b2741
+      internalID: -2451695544976068878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_221
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df7bcfdd3a75f48af76df8a5d023a3
+      internalID: 1821296601626156433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ccdbb11a244274082e71348eb3b682
+      internalID: -485821925195511009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_223
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94094df96cdc06409dff5268b307a28
+      internalID: -7152873629123688655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_224
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da403b1f4207740b33b573dee3c7a3
+      internalID: -5208539707228245921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_225
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07f2332a5e72645bd23491285b383d
+      internalID: -6787066870654696416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_226
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d9e75218c77f47845543c38ce14ee
+      internalID: -4958312739939313343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_227
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc5519f998af24fa8f273a109bf9be
+      internalID: -9016623872759104753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfefe126900fbc48af297d963d4abb9
+      internalID: 6471231767277394672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_229
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3245f765ba43d48a22d76377ec225c
+      internalID: -9085732923979694104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_230
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb00585ccfea364e857c95a97766ee8
+      internalID: -3031459077638022818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_231
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fdd483ba4b4ac47a04daa61e0b78e7
+      internalID: 8704733867632599133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_232
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4ef84da307bd4b86eed213d06b10b
+      internalID: -4250606952027649044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_233
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae960cfd21fce44c9a441b0f3d0ac7d
+      internalID: 5523182450934013414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_234
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9033fdc378f75db408bd3c5ce31ab328
+      internalID: -1283955603846704304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_235
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317043799a8dae45b1714ed19177f62
+      internalID: -6940449836743151175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_236
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0934e3134cb8d48899ac998042e4dd
+      internalID: -4066257261555546607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_237
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91c68b139e32e45b791cd29b8c70ea
+      internalID: 6467923365297209941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_238
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee36b38b18cb224fa10df041391fb6f
+      internalID: -6624728009979380472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_239
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 95.69231
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379c12b4f84cb84bb863efa2dc32411
+      internalID: 8568348849575547437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf0078bd1785f41868cd9b4840a154
+      internalID: -8786773927914190529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0546e324e7bcc54d8bf5f1de39769eb
+      internalID: -5872994993438077723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6c0becfb770840929803139e43832
+      internalID: 1733089369888351572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2c61b847a766244895be2e0f4b8366
+      internalID: -2439886754789171444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_244
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2df5104f094e747a170898949efe39
+      internalID: -7907033807885272017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_245
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f17d48a75f9449b38b19cb5529b0b
+      internalID: -7082252603267804762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d8df2adcfd5345881e086604af90a
+      internalID: -8416499824540393386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_247
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a2f47e39090e4eb5d2e75cb0d6b59
+      internalID: -4338626909412712783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_248
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b6155c513171f43b46cf711a8efbb9
+      internalID: -8281473939528399116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_249
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63ec9f221be484fa6f759c1dfaf8e7
+      internalID: -173137567088433301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_250
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987e896aae53374c879a0ad9b876b0f
+      internalID: -3532824767392481100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_251
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2629aea71c948f48a6ee9ee4aa6138b
+      internalID: -940509038151701053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_252
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f1cd3dfaf01d4694a88cae641f22f
+      internalID: 5412144995005789431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_253
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe79b9870eba74c921b3f2220b984b
+      internalID: -3292141440943960560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_254
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660cf5ba5eabdb4094b840c06b7f765
+      internalID: -5554975705239938201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_255
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88c5e991f44ec47a9e8953089622a0
+      internalID: 3413250807917230694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_256
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7d1d1025c7af458759ac4b3655c37
+      internalID: -8242883036647615249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_257
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14031cbb002ae34a8b4e1abf0f41ceb
+      internalID: 2603428054491498320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_258
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce7a976429e8d4e955e38fa177e9af
+      internalID: -9054491048098715604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceForMainScene_259
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3.6923065
+        width: 96
+        height: 92.30769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8ea4cd290eb82489428b3ca1f573a9
+      internalID: -744498059742856663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d666172a510880d4fb0207f17e6769e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

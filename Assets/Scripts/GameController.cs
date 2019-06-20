@@ -6,7 +6,7 @@ public class GameController : MonoBehaviour
 {
     public GameObject ship;
 
-    private GameObject camera;
+    private new GameObject camera;
 
     private CameraScript cameraScript;
     // Start is called before the first frame update
